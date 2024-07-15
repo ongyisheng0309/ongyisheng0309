@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yi Sheng.
 - 👀 I’m interested in computer vision & AI
 - 🌱 I’m currently learning Workout posture learning by using computer vision
-- 📫 How to reach me ys___0309 in Instagram
+- 📫 Reach me with ys___0309 in Instagram
 - ⚡ Fun fact: If you have BEN as your car plate, and you want to make it BEN 10 but u don't want have extra charge on plate. You can make it in BEN 1010.
 
 <!---
